@@ -1,0 +1,54 @@
+{
+    "misunderstood_rules": {
+      "general": [
+        "Runners Advance on Deflected Ball",
+        "Obstruction",
+        "Pitcher's Windup vs Stretch",
+        "Intentional Walk Rules",
+        "Infield Fly Rule",
+        "Interference - Catcher",
+        "Interference - Batter",
+        "Interference - Spectator",
+        "Interference - Coach",
+        "Interference - Runner",
+        "Awarded Bases - Overthrows",
+        "Dropped Third Strike - Less than 2 Outs vs 2 Outs",
+        "Decoys",
+        "Hidden Ball Trick",
+        "Appeal Plays",
+        "Mound Visits",
+        "Switching Throwing Arm",
+        "Slide Rule",
+        "Fair/Foul - Hits the Ground Before vs After the Base",
+        "Fair/Foul - Hits Home Plate",
+        "Running Past First Base and What Constitutes an 'Attempt' Towards 2nd Base",
+        "Foul Tips Caught by the Catcher",
+        "Hit by Pitch After a Bounce",
+        "When a Batter Gets Hit by the Pitch, but the Umpire Sees a Swing",
+        "Tie Goes to the Runner Isn't a Rule",
+        "What Constitutes the Base Path - Running Out of the Base Path",
+        "Foul Ball Pole Gets Hit",
+        "Pitcher Stepping Off the Rubber vs Not Stepping Off for Pickoff Plays",
+        "Fake Pitcher Throws to 1st, 2nd, and 3rd Bases",
+        "What Constitutes a Checked Swing",
+        "When a Coach/Team is Allowed to Protest",
+        "Protest Rules",
+        "Can Batters Switch Sides of the Plate During an At-Bat?",
+        "Batting Out of Order Rules",
+        "When is a Batter Out for Abandoning an Attempt Towards a Base?",
+        "Umpire's Required Verbal and Hand Signal Rules for Fair/Foul, Out/Safe, Infield Fly, Ball/Strike",
+        "Runner is Hit by the Ball",
+        "Fielder's Right of Way vs Runner's Right of Way on a Ball in Play",
+        "A Run Doesn't Count on a 3rd Out Where an Out is Made Before the Runner Scores, or Where There is a Force Out",
+        "Batter Asking for Time Out"
+      ],
+      "youth_leagues": {
+        "lead_off_base": true,
+        "pitch_count": true,
+        "substitutions": true,
+        "pinch_runners": true,
+        "base_stealing": true
+      }
+    }
+  }
+  
